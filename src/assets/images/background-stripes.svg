@@ -1,0 +1,19 @@
+<svg width="1600.0000000000002" height="1200" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="#FDFEF9" id="canvas_background" height="1202" width="1602" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <line stroke="#00bf00" transform="rotate(-11.994505882263184 808.9978637695315,383.66824340820284) " opacity="0.8" stroke-linecap="null" stroke-linejoin="null" id="svg_2" y2="50.668246" x2="1651.781716" y1="300" x1="-33.786077" stroke-width="60" fill="none"/>
+  <line stroke="#ff0000" transform="rotate(-0.49059540033340454 855.0015258789148,466.77163696289074) " opacity="0.8" stroke-linecap="null" stroke-linejoin="null" id="svg_4" y2="29.011261" x2="1768.656266" y1="804.532058" x1="-58.653226" stroke-width="60" fill="none"/>
+  <line transform="rotate(-2.02573561668396 878.0014038085925,590.2719116210939) " stroke="#ff0000" opacity="0.8" stroke-linecap="null" stroke-linejoin="null" id="svg_6" y2="279.771411" x2="1781.503068" y1="800.772445" x1="-25.500167" stroke-width="60" fill="none"/>
+  <line stroke="#0000ff" transform="rotate(-5.635005950927734 861.281311035156,603.1396484374999) " opacity="0.8" stroke-linecap="null" stroke-linejoin="null" id="svg_7" y2="300.639656" x2="1733.651807" y1="450.639656" x1="-11.089026" stroke-width="60" fill="none"/>
+  <line transform="rotate(-3.0905375480651855 962.5018310546943,761.7722778320327) " stroke="#ffff00" opacity="0.8" stroke-linecap="null" stroke-linejoin="null" id="svg_10" y2="584.77197" x2="1982.503905" y1="838.772576" x1="-57.500175" stroke-width="60" fill="none"/>
+  <line stroke="#0000ff" transform="rotate(-4.297258377075195 842.6450805664044,773.5489501953133) " opacity="0.8" stroke-linecap="null" stroke-linejoin="null" id="svg_8" y2="500.548905" x2="1692.406099" y1="575.548905" x1="-7.115964" stroke-width="60" fill="none"/>
+ </g>
+</svg>

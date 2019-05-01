@@ -1,0 +1,76 @@
+/* Colors */
+$yeller: #ECE942
+$cream: #FDFEF9
+
+$shadow-red: rgba(255, 23, 68, 0.60)
+$shadow-white: rgba(255, 255, 255, 0.4)
+
+/* Shadows */
+@mixin shadow-to-left
+  text-shadow: -4px 3px 3px $shadow-red, -1px 1px 3px $shadow-white
+
+@mixin shadow-to-right
+  text-shadow: 4px 3px 3px $shadow-red, 1px 1px 3px $shadow-white
+
+@mixin shadow-transition
+  -webkit-transition: text-shadow .2s ease-in-out
+  -o-transition: text-shadow .2s ease-in-out
+  transition: text-shadow .2s ease-in-out
+
+@mixin title-transition
+	transition: text-shadow .1s ease-in .1s, color 0.2s ease-in
+	-webkit-transition: text-shadow .1s ease-in .1s, color 0.2s ease-in
+	-o-transition: text-shadow .1s ease-in .1s, color 0.2s ease-in
+
+/* Borders */
+$site-border: 20px solid white
+
+@mixin three-borders-in-a-good-neighborhood
+  border-left: $site-border
+  border-right: $site-border
+  border-top: $site-border
+
+/* Layouts */
+@mixin grid-layout
+  height: 100vh
+  display: -ms-grid
+  display: grid
+  -ms-grid-columns: 100%
+  grid-template-columns: 100%
+  -ms-grid-rows: auto 20px
+  grid-template-rows: auto 20px
+  grid-template-areas: "content" "tiny"
+
+@mixin grid-layout-mobile
+  height: calc(100vh - 44px)
+  display: -ms-grid
+  display: grid
+  -ms-grid-columns: 100%
+  grid-template-columns: 100%
+  -ms-grid-rows: auto 20px
+  grid-template-rows: auto 20px
+  grid-template-areas: "content" "tiny"
+
+@mixin tiny-flex
+  -webkit-box-orient: horizontal
+  -webkit-box-direction: normal
+  -ms-flex-direction: row
+  flex-direction: row
+  display: -webkit-box
+  display: -ms-flexbox
+  display: flex
+  -webkit-box-align: center
+  -ms-flex-align: center
+  align-items: center
+  -ms-flex-pack: distribute
+  justify-content: space-around
+
+/* Fonts */
+@mixin news-cycle
+  font-family: 'News Cycle', sans-serif
+
+@mixin monoton
+  font-family: 'Monoton', cursive
+
+@mixin anton
+  font-family: 'Anton', sans-serif
