@@ -7,7 +7,7 @@
 module.exports = {
   siteName: 'Jeremy Fields',
   siteDescription: 'Come on in',
-
+  titleTemplate: '%s Jeremy Fields',
   plugins: [
     {
       // Create posts from markdown files
