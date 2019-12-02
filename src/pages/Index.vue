@@ -11,8 +11,8 @@
           I currently work as a Data Analyst <a href="https://www.merkleinc.com/" target="_blank">@Merkle</a></br>
           Check me out on
           <a href="https://www.twitter.com/delafields" target="_blank">Twitter</a>,
-          <a href="https://www.github.com/delafields" target="_blank">Github</a>,
-          or <a href="https://www.kaggle.com/delafields" target="_blank">Kaggle</a>
+          <a href="https://www.github.com/delafields" target="_blank">Github</a>
+          or check my <a href="https://delafields.github.io/" target="_blank">Data Science Portfolio</a>
         </h6>
       </div>
     </div>
