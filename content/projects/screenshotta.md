@@ -1,7 +1,7 @@
 ---
 title: Screenshotta
 date: 2018-01-07
-tags: ['Python', 'Code', 'CLI']
+tags: ['Python', 'Code']
 canonical_url: false
 description: "CLI tool for anonymously hosting screenshots."
 ---

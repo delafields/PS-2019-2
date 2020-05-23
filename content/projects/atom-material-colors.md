@@ -1,7 +1,7 @@
 ---
 title: Atom Material Colors
 date: 2018-01-16
-tags: ['Javascript', 'Code', 'UX']
+tags: ['Javascript', 'Code']
 canonical_url: false
 description: "An Atom plugin that displays and autocompletes Material Design Colors."
 ---

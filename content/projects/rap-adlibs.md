@@ -1,7 +1,7 @@
 ---
 title: Rap Adlibs
 date: 2018-01-16
-tags: ['Python', 'Code', 'Alexa']
+tags: ['Python', 'Code']
 canonical_url: false
 description: "An Alexa skill that quizzes you on adlibs...TRU"
 ---

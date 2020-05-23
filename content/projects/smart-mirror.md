@@ -1,7 +1,7 @@
 ---
 title: Smart Mirror
 date: 2018-10-25
-tags: ['Javascript', 'Code', 'RPi']
+tags: ['Javascript', 'Code', 'Electronics']
 canonical_url: false
 description: "React app that displays news, stock prices, calendar and weather - running on a Raspberry Pi."
 ---
